@@ -1,0 +1,11 @@
+Passo 1: logar com .\tic.local senha: ADMlocal-CP@2018
+Passo 2: remover BGinfo, ir no agendador de tarefas e remover o atualizar papel de parede
+passo 3: ativar o ip no rust desk
+passo 4: Adicionar o adm.rededor e dar permissão de adm
+passo 5: Renomear computador com o novo host e colocar no domínio rededor.corp, utilizando o seu usuário da hexa 
+passo 6: acessar a rede \\rededor.corp com suas credencias da hexa e fazer o autologon
+passo 7: Iniciar a migração no grupo e solicitar para que movam a maquina e virem a vlan e reiniciar o computador depois de feito
+passo 8: fazer backup do usuário
+passo 9: fazer instalação dos certificados e conectar ao \\cp-file-01 com usuário legado da maquina
+passo 10: executar o gerencimaneto do computador como usuario diferente e passar permissão de adm para o adm.rededor e renomear o administrador para tic.local
+passo 11: finalizar migração no grupo solicitando configuração do smart
